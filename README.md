@@ -2,4 +2,4 @@
 
 Powtorka podstaw Pythona z pogłębieniem materiału.
 
-Dodaje fatalna poprawke rujnujaca moje zycie.
+Naprawiam wszystko

@@ -10,6 +10,7 @@ user-2;LOGIN;471
 user-7;LOGIN;588
 user-6;LOGIN;674
 user-5;LOGIN;726
+cos tam
 user-10;LOGIN;803
 user-8;LOGIN;824
 user-5;LOGOUT;929
@@ -23,6 +24,7 @@ user-1;LOGIN;1520
 user-8;LOGOUT;1566
 user-4;LOGOUT;1580
 user-6;LOGOUT;1584
+system nie dziala
 user-10;LOGOUT;1591
 user-5;LOGOUT;1603
 user-4;LOGIN;1705
@@ -35,6 +37,7 @@ user-5;LOGIN;2071
 user-6;LOGIN;2187
 user-7;LOGIN;2206
 user-1;LOGIN;2272
+xxx
 user-8;LOGIN;2342
 user-1;LOGOUT;2459
 user-9;LOGIN;2463
@@ -93,6 +96,7 @@ user-2;LOGIN;5297
 user-2;LOGOUT;5370
 user-9;LOGOUT;5378
 user-6;LOGOUT;5392
+
 user-6;LOGIN;5418
 user-9;LOGIN;5453
 user-3;LOGIN;5505

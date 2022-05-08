@@ -1,0 +1,12 @@
+Czas przebywania w systemie:
+
+user-7      : 3571 s
+user-4      : 3294 s
+user-6      : 3263 s
+user-8      : 2705 s
+user-2      : 2540 s
+user-10     : 2450 s
+user-9      : 2384 s
+user-1      : 2203 s
+user-5      : 1801 s
+user-3      : 1585 s
